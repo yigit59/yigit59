@@ -22,7 +22,7 @@ I have intermediate knowledge in the field of cybersecurity.
 
 <h2 align="center">My GitHub Stats </h2>
 <p align="center">
-  <img src=" https://github-readme-stats.vercel.app/api?username=yigit59&show_icons=true&theme=tokyonight" width="450" height="180">
+https://github-readme-stats.vercel.app/api?username=yigit59&show_icons=true&theme=gradient,
   
   
 </p>
