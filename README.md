@@ -22,7 +22,7 @@ I have intermediate knowledge in the field of cybersecurity.
 
 <h2 align="center">My GitHub Stats </h2>
 <p align="center">
-https://github-readme-stats.vercel.app/api?username=yigit59&show_icons=true&theme=gradient,
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=yigit59&show_icons=true&theme=gradient),
   
   
 </p>
